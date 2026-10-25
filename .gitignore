@@ -1,0 +1,33 @@
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Streamlit: локальные настройки и секреты
+.streamlit/secrets.toml
+
+# Переменные окружения
+.env
+.env.*
+
+# Временные файлы
+*.log
+
+# Локальные тестовые изображения
+cat_test.jpg
+cat_test.png
+
+# Скачанные модели, если они сохранены в проекте
+models/
+checkpoints/
