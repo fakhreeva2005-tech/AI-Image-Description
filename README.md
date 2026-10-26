@@ -1,6 +1,9 @@
 
 # 🖼️ AI Image Description
 
+[![Python Tests](https://github.com/fakhreeva2005-tech/AI-Image-Description/actions/workflows/tests.yml/badge.svg)](https://github.com/fakhreeva2005-tech/AI-Image-Description/actions/workflows/tests.yml)
+
+
 Веб-приложение для автоматического описания изображений
 на английском и русском языках с использованием
 предобученных нейросетевых моделей Hugging Face.
