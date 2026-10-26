@@ -113,6 +113,18 @@ st.markdown("""
 st.markdown("""
 <div class="hero">
     <div class="hero-title">✨ AI Image Description</div>
+        <div style="
+        display: inline-block;
+        background: #EDE7FF;
+        color: #6C51BD;
+        padding: 6px 14px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 600;
+        margin-bottom: 16px;
+        ">
+            Версия 1.0 · AI-powered
+        </div>
     <div class="hero-subtitle">
         Превращаем изображения в слова с помощью
         искусственного интеллекта.<br>
